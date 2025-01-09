@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm Alok Yadav!
 
-<!--
-**ayadav44237/ayadav44237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Frontend Developer** specializing in ReactJS, Tailwind CSS, and building amazing user interfaces.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Languages**: HTML, CSS, JavaScript, TypeScript
+- **Frontend**: React, Redux, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Achievements
+- **ICPC 2021**: Rank 93 (Kanpur Mathura Region).
+- Solved 500+ problems on platforms like Codeforces, CodeChef, and LeetCode.
+
+## 📫 Let's Connect
+- **Email**: [ayadav44237@gmail.com](mailto:ayadav44237@gmail.com)
+- **LinkedIn**: [linkedin.com/in/alokyadav](https://www.linkedin.com/in/alokyadav/)
+- **Portfolio**: [Your Portfolio Link](#)
