@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Alok Yadav!  
+# 👋 Hi, I’m Alok Yadav
 
 💻 **Full Stack Developer** | 🎨 **Frontend Enthusiast** | 🚀 **Tech Explorer**  
 
