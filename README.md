@@ -5,7 +5,7 @@
 ---
 
 ### 🧑‍💻 **About Me**  
-I'm a passionate software developer with a focus on crafting user-friendly and performant web applications. I love solving problems and learning new technologies to enhance my skill set.  
+I'm a passionate software developer with a focus on crafting user-friendly and performant web applications. I love solving problems and learning new technologies to enhance my skill set .  
 
 - 🎓 **Education**: B.Tech in IT, Madan Mohan Malaviya University of Technology (2019 - 2023)  
 - 🌱 **Currently Exploring**: Nodejs, Backend, Advanced Fronted Technologies 
