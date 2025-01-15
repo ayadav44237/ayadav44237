@@ -61,4 +61,4 @@ I'm a passionate software developer with a focus on crafting user-friendly and p
 
 ---
 
-⭐ _Feel free to explore my repositories and don’t forget to leave a star if you like them! ⭐
+⭐ Feel free to explore my repositories and don’t forget to leave a star if you like them! ⭐
