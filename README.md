@@ -44,7 +44,7 @@ I'm a passionate software developer with a focus on crafting user-friendly and p
 
 ---
 
-### 🏆 **GitHub Stats**  
+### 🏆 **GitHub Stats **  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayadav44237&show_icons=true&theme=radical" alt="Alok's GitHub Stats" height="180px"/>
