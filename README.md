@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Alok Yadav
 
-💻 **Full Stack Developer** | 🎨 **Frontend Enthusiast** | 🚀 **Tech Explorer**  
+**Immediate Joinner** |💻 **Full Stack Developer** | 🎨 **Frontend Enthusiast** | 🚀 **Tech Explorer**  
 
 ---
 
