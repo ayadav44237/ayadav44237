@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Alok Yadav
+# 👋 Hi, I’m Alok
 
 **Immediate Joinner** |💻 **Full Stack Developer** | **Frontend Enthusiast** | 🚀 **Tech Explorer**  | **Technical Content Writer**
 
