@@ -12,7 +12,7 @@ I’ve worked on real-world products involving **dashboards, inventory systems, 
 With a solid foundation in web technologies and practical problem-solving, I’m continuously strengthening my **backend knowledge and system-level understanding**.
 
 - 🎓 **B.Tech in Information Technology** — Madan Mohan Malaviya University of Technology (2019–2023)  
-- 🌱 **Currently exploring:** Backend development, advanced frontend patterns  
+- 🌱 **Currently exploring:** Actively learning and using AI to speed up development, Backend development, advanced frontend patterns  
 - 📍 **Location:** Gurugram, India  
 - 💡 **Interests:** Building real-world products, problem-solving, system thinking  
 
